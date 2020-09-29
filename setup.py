@@ -4,7 +4,7 @@ setup(
     name='pytest-easyread',
     description='pytest plugin that makes terminal printouts of the reports easier to read',
     long_description=open("README.md").read(),
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/CrystalPea/pytest-easyread',
     download_url='https://github.com/CrystalPea/pytest-easyread/archive/0.1.tar.gz',
     license='BSD',
@@ -21,5 +21,6 @@ setup(
         "Framework :: Pytest",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
+        "Development Status :: 7 - Inactive",
     ]
 )
